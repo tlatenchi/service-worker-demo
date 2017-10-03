@@ -1,0 +1,14 @@
+{
+  "name": "simple",
+  "version": "1.0.0",
+  "description": "service workers demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "http-server ./ -o -C -c-1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
